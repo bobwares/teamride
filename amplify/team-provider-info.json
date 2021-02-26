@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-teamride-dev-222225-authRole",
+      "UnauthRoleArn": "arn:aws:iam::644909072813:role/amplify-teamride-dev-222225-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::644909072813:role/amplify-teamride-dev-222225-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-teamride-dev-222225-deployment",
+      "UnauthRoleName": "amplify-teamride-dev-222225-unauthRole",
+      "StackName": "amplify-teamride-dev-222225",
+      "StackId": "arn:aws:cloudformation:us-east-2:644909072813:stack/amplify-teamride-dev-222225/3c2d0c90-77ea-11eb-9830-0ab953d5acdc",
+      "AmplifyAppId": "d2z4i89p8j23fr"
+    },
+    "categories": {
+      "auth": {
+        "teamridec264372e": {}
+      }
+    }
+  }
+}
